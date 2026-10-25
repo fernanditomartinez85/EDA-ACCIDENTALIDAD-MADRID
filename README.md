@@ -74,7 +74,7 @@ En [EDA_FERNANDO.ipynb](EDA_FERNANDO.ipynb) se hace el análisis exploratorio de
 
 ## 💡 Conclusiones
 
-- En el **tramo negro (17h - 21h)** se concentra una cuarta parte de los accidentes graves, y los puntos con más accidentes en ese tramo son las autovías de acceso a Madrid (A-2, A-42, M-30, M-40).
+- En el **tramo negro (17h - 21h)** se concentra una cuarta parte de los accidentes graves, y los puntos con más accidentes en ese tramo son autovías (A-2, A-42, M-30, M-40).
 - El **tipo de accidente** es lo que más influye en la gravedad: los atropellos a personas son los que más acaban en accidente grave (6,4 %), frente al 0,7 % de los alcances. El **estado meteorológico** no influye.
-- **Propuestas:** campaña sobre los desplazamientos al trabajo en hora punta, más vigilancia en las autovías de acceso al final de la jornada, protección de los peatones y controles de alcoholemia de noche y de madrugada.
+- **Propuestas:** campaña de prevención en las horas con más accidentes graves, más vigilancia en las autovías entre las 17 y las 21 horas, protección de los peatones y controles de alcoholemia de noche y de madrugada.
 - El **modelo de alcohol** detecta 2 de cada 3 positivos a cambio de muchas falsas alarmas. Ser hombre y la madrugada son lo que más sube la probabilidad de dar positivo.
